@@ -22,9 +22,6 @@ Jupyter4NFDI is developed within [Base4NFDI](https://base4nfdi.de/) as part of t
 * **[services](https://github.com/NFDI-Jupyter/services)**
   Documentation and information about Jupyter services within NFDI. The repository also hosts Jupyter4NFDI discussions, support and resource integration processes.
 
-* **[website-dev](https://github.com/NFDI-Jupyter/website-dev)**
-  Development repository for the Jupyter4NFDI website and documentation.
-
 * **[ghactions](https://github.com/NFDI-Jupyter/ghactions)**
   GitHub Actions for integrating repositories with Jupyter4NFDI, including automated execution and testing of notebooks.
 
