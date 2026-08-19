@@ -1,6 +1,9 @@
-# NFDI-Jupyter
+<p align="center">
+  <img src="Jupyter4NFDI-top.png" alt="Jupyter4NFDI" width="450">
+</p>
 
-This GitHub organisation hosts repositories related to [Jupyter4NFDI](https://nfdi-jupyter.de/), a central Jupyter service for the NFDI community.
+
+This GitHub organisation hosts repositories related to [Jupyter4NFDI](https://nfdi-jupyter.de/), a central JupyterHub instance accessible to everyone within the [NFDI- Nationale Forschungsdateninfrastruktur](https://www.nfdi.de). Jupyter4NFDI is one of the [Base4NFDI](https://base4nfdi.de/) services.
 
 Jupyter4NFDI provides browser-based access to computational resources through Jupyter. It supports standard JupyterLab environments, custom Docker images and reproducible environments built from repositories using repo2docker.
 
@@ -10,11 +13,11 @@ You can access Jupyter4NFDI at [hub.nfdi-jupyter.de](https://hub.nfdi-jupyter.de
 
 Jupyter4NFDI is developed within [Base4NFDI](https://base4nfdi.de/) as part of the German National Research Data Infrastructure (NFDI).
 
-Funded by the German Research Foundation (DFG) as part of NFDI; grant number 521453681.
+**Funded by the German Research Foundation (DFG) as part of NFDI; grant number 521453681.**
 
 ## Repositories
 
-### Jupyter4NFDI
+### Jupyter4NFDI infrastructure and services
 
 * **[services](https://github.com/NFDI-Jupyter/services)**
   Documentation and information about Jupyter services within NFDI. The repository also hosts Jupyter4NFDI discussions, support and resource integration processes.
