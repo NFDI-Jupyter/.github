@@ -25,23 +25,19 @@ Jupyter4NFDI is developed within [Base4NFDI](https://base4nfdi.de/) as part of t
 * **[ghactions](https://github.com/NFDI-Jupyter/ghactions)**
   GitHub Actions for integrating repositories with Jupyter4NFDI, including automated execution and testing of notebooks.
 
-### Training and examples
+### Training 
 
-* **[training-materials-template](https://github.com/NFDI-Jupyter/training-materials-template)**
-  Template for creating Jupyter4NFDI training materials.
+* **[Working with different programming languages and kernels in Jupyter4NFDI](https://github.com/NFDI-Jupyter/learn-jupyter4nfdi-languages-kernels)**
+* **[Prepare your project to be Jupyter4NFDI-ready](https://github.com/NFDI-Jupyter/learn-jupyter4nfdi-read)**
+* **[Template for creating Jupyter4NFDI training materials.](https://github.com/NFDI-Jupyter/training-materials-template)**
+* **[Template repository for learning how to make a project directly launchable on Jupyter4NFDI with repo2docker.](https://github.com/NFDI-Jupyter/jupyter4nfdi-ready-template)**
+* **[Slides for Jupyter4NFDI training workshops.](https://github.com/NFDI-Jupyter/jupyter4nfdi-slides)**
+ 
 
-* **[learn-jupyter4nfdi-ready](https://github.com/NFDI-Jupyter/learn-jupyter4nfdi-ready)**
-  Self-study materials for learning how to prepare a repository for use with Jupyter4NFDI and repo2docker.
-
-* **[jupyter4nfdi-ready-template](https://github.com/NFDI-Jupyter/jupyter4nfdi-ready-template)**
-  Template repository for learning how to make a project directly launchable on Jupyter4NFDI with repo2docker.
-
-* **[jupyter4nfdi-slides](https://github.com/NFDI-Jupyter/jupyter4nfdi-slides)**
-  Slides used for Jupyter4NFDI training workshops.
+### Examples
 
 * **[open-science-jupyter4NFDI](https://github.com/NFDI-Jupyter/open-science-jupyter4NFDI)**
   Example training material for running an Open Science tutorial on the Jupyter4NFDI infrastructure.
-
 * **[prisonners-dillema-jupyter4nfdi](https://github.com/NFDI-Jupyter/prisonners-dillema-jupyter4nfdi)**
   Example Binder-ready training material introducing computer simulation with the Prisoner's Dilemma.
 
