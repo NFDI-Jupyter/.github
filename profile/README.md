@@ -28,7 +28,7 @@ Jupyter4NFDI is developed within [Base4NFDI](https://base4nfdi.de/) as part of t
 ### Training 
 
 * **[Working with different programming languages and kernels in Jupyter4NFDI](https://github.com/NFDI-Jupyter/learn-jupyter4nfdi-languages-kernels)**
-* **[Prepare your project to be Jupyter4NFDI-ready](https://github.com/NFDI-Jupyter/learn-jupyter4nfdi-read)**
+* **[Prepare your project to be Jupyter4NFDI-ready](https://github.com/NFDI-Jupyter/learn-jupyter4nfdi-ready)**
 * **[Template for creating Jupyter4NFDI training materials.](https://github.com/NFDI-Jupyter/training-materials-template)**
 * **[Template repository for learning how to make a project directly launchable on Jupyter4NFDI with repo2docker.](https://github.com/NFDI-Jupyter/jupyter4nfdi-ready-template)**
 * **[Slides for Jupyter4NFDI training workshops.](https://github.com/NFDI-Jupyter/jupyter4nfdi-slides)**
