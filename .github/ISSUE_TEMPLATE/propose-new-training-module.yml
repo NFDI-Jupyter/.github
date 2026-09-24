@@ -1,0 +1,52 @@
+name: Propose a new training module
+description: Suggest a new topic or training module for the Jupyter4NFDI learning materials.
+title: "[New module]: "
+labels: ["new module"]
+body:
+  - type: input
+    id: title
+    attributes:
+      label: Proposed module title
+      placeholder: "e.g. Working with object storage in Jupyter4NFDI"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: What should the module cover?
+      description: Briefly describe the topic and the main concepts or tasks that should be included.
+    validations:
+      required: true
+
+  - type: textarea
+    id: audience
+    attributes:
+      label: Who is this module for?
+      description: Describe the expected audience and any prior knowledge they would need.
+
+  - type: textarea
+    id: outcomes
+    attributes:
+      label: Suggested learning outcomes
+      description: What should learners be able to do after completing the module?
+      placeholder: |
+        After completing this module, learners should be able to:
+        - ...
+        - ...
+        - ...
+
+  - type: textarea
+    id: resources
+    attributes:
+      label: Relevant resources
+      description: Add links to documentation, examples, repositories, or other useful material.
+
+  - type: dropdown
+    id: contribution
+    attributes:
+      label: Would you be interested in contributing to this module?
+      options:
+        - "Yes"
+        - "Maybe"
+        - "No"
