@@ -1,8 +1,0 @@
-# Allow users to open a blank issue if none of the provided templates fit their request.
-blank_issues_enabled: true
-
-# Provide an alternative contact option for questions that do not belong in an issue.
-contact_links:
-  - name: Contact Jupyter4NFDI
-    url: https://nfdi-jupyter.de/
-    about: "Email us at jupyter4nfdi AT lists.nfdi.de"
