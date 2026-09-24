@@ -1,0 +1,37 @@
+name: Report a broken link
+description: Report a link in the training materials that is broken or points to the wrong resource.
+title: "[Broken link]: "
+labels: ["broken link"]
+body:
+  - type: input
+    id: page
+    attributes:
+      label: Page containing the link
+      description: Please provide the URL of the page where you found the broken link.
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: input
+    id: broken_url
+    attributes:
+      label: Broken link
+      description: What URL is not working?
+      placeholder: "https://..."
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happens when you follow the link?
+      placeholder: "e.g. 404 Not Found, redirects to the wrong page..."
+    validations:
+      required: true
+
+  - type: input
+    id: replacement
+    attributes:
+      label: Suggested replacement
+      description: If you know the correct URL, please provide it here.
+      placeholder: "https://..."
