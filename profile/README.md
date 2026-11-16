@@ -26,6 +26,8 @@ The materials are designed for independent learning but can also be adapted for 
 | **[Prepare your project to be Jupyter4NFDI-ready](https://nfdi-jupyter.github.io/learn-jupyter4nfdi-ready/)** | Learn how to configure a GitHub repository so that it can be launched as a reproducible computational environment in Jupyter4NFDI using repo2docker. | [GitHub](https://github.com/NFDI-Jupyter/learn-jupyter4nfdi-ready) |
 | **[Automated Notebook Validation](https://nfdi-jupyter.github.io/learn-jupyter4nfdi-automated-validation/)** | Learn how to use GitHub Actions to automatically execute and validate Jupyter notebooks, helping ensure that notebooks remain functional and reproducible. | [GitHub](https://github.com/NFDI-Jupyter/learn-jupyter4nfdi-automated-validation) |
 | **[Working with external data storage](https://nfdi-jupyter.github.io/learn-jupyter4nfdi-mouting-data/)** | Learn how to mount external data sources and access data stored outside Jupyter4NFDI from your computational environment. | [GitHub](https://github.com/NFDI-Jupyter/learn-jupyter4nfdi-mouting-data) |
+| **[Getting access to GPUs on Jupyter4NFDI](https://nfdi-jupyter.github.io/learn-jupyter4nfdi-gpu/)** | Learn how to request and access GPU resources in Jupyter4NFDI, explore GPU computing capabilities and understand when GPU acceleration can benefit your research workflows. | [GitHub](https://github.com/NFDI-Jupyter/learn-jupyter4nfdi-gpu) |
+
 
 
 **Additional training resources**
