@@ -15,6 +15,8 @@ Jupyter4NFDI is developed within [Base4NFDI](https://base4nfdi.de/) as part of t
 
 **Funded by the German Research Foundation (DFG) as part of NFDI; grant number 521453681.**
 
+## Training resources
+
 We provide a collection of self-study materials organised into modules, each focusing on a specific task or feature of Jupyter4NFDI. The modules offer practical, step-by-step guidance to help users develop the skills needed to work with the platform, from configuring research environments to managing data and automating workflows.
 
 The materials are designed for independent learning but can also be adapted for use in instructor-led training sessions.
