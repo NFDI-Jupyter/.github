@@ -44,12 +44,15 @@ The materials are designed for independent learning but can also be adapted for 
   Presentation materials for introducing Jupyter4NFDI and delivering instructor-led workshops. These slides can be used alongside the self-study modules to support interactive training sessions and hands-on exercises. Instructors are welcome to adapt them to suit their audience and workshop format.
 
 
-### Examples
+## Examples
 
 * **[open-science-jupyter4NFDI](https://github.com/NFDI-Jupyter/open-science-jupyter4NFDI)**
   Example training material for running an Open Science tutorial on the Jupyter4NFDI infrastructure.
 * **[prisonners-dillema-jupyter4nfdi](https://github.com/NFDI-Jupyter/prisonners-dillema-jupyter4nfdi)**
-  Example Binder-ready training material introducing computer simulation with the Prisoner's Dilemma.
+  Example training material introducing computer simulation with the Prisoner's Dilemma.
+
+Examples from [Jupyter4NFDI Incubators](https://github.com/NFDI-Jupyter/services/discussions/47)
+* [HEAT](https://github.com/helmholtz-analytics/heat/tree/main/doc/source/tutorials/notebooks)
 
 ## Repositories
 
