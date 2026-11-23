@@ -51,18 +51,25 @@ The materials are designed for independent learning but can also be adapted for 
 * **[prisonners-dillema-jupyter4nfdi](https://github.com/NFDI-Jupyter/prisonners-dillema-jupyter4nfdi)**
   Example training material introducing computer simulation with the Prisoner's Dilemma.
 
-Examples from [Jupyter4NFDI Incubators](https://github.com/NFDI-Jupyter/services/discussions/47)
-* [HEAT](https://github.com/helmholtz-analytics/heat/tree/main/doc/source/tutorials/notebooks)
+#### Examples of Jupyter4NFDI use across research domains
 
-## Repositories
+The [Jupyter4NFDI Incubators](https://github.com/NFDI-Jupyter/services/discussions) demonstrate how researchers from different disciplines can use Jupyter4NFDI to develop, share and execute computational research workflows.
 
-### Jupyter4NFDI infrastructure and services
+| Domain | Example | Description | Links |
+|---|---|---|---|
+| High-performance computing / Data analytics | **HEAT** | Interactive tutorials demonstrating parallel and distributed data analytics using the Heat Python library. | [Run on Jupyter4NFDI](https://hub.nfdi-jupyter.de/v2/gh/helmholtz-analytics/heat/HEAD?system=deNBI-Cloud&flavor=m1) |
+| Social sciences / Political science | **AMMICO** | AI-based analysis of image and video content, including emotional and factual content, for political science and communication research. | [Run on Jupyter4NFDI](https://hub.nfdi-jupyter.de/v2/gh/ssciwr/AMMICO/HEAD?system=deNBI-Cloud&flavor=m1)) |
+| Digital humanities | **Sentiment Analysis with Python** | Interactive self-study course using German literary texts, including Grimm's fairy tales, to teach Python, text processing and sentiment analysis. Uses Thebe to execute code in the browser. | [Run on Jupyter4NFDI](https://hub.nfdi-jupyter.de/v2/gh/Bayquiri/python-sentiment-grimm/HEAD?system=deNBI-Cloud&flavor=m1) |
+| Materials science / Machine learning | **Symbolic Regression via Compressed Sensing** | Tutorial demonstrating machine learning methods for materials science using a small example dataset (under 100 MB). | [Incubator](https://github.com/NFDI-Jupyter/services/discussions/40) |
+| Geophysics / Scientific software | **Issue2Docker / pyGIMLi** | Reproducing scientific software issues in interactive computational environments. Developed and tested using pyGIMLi for geophysical modelling and inversion. | [Run on Jupyter4NFDI](https://hub.nfdi-jupyter.de/v2/gh/gimli-org/pyGIMLi/HEAD?system=deNBI-Cloud&flavor=m1) |
+| Metrology / Engineering | **ScanClouDT** | Processing and analysis of terrestrial laser scanning point clouds, including filtering, segmentation, geometry fitting and uncertainty estimation. | [Project](https://www.scancloudt.ptb.de/news-events) |
+| Social sciences / Computational methods | **Methods Hub** | Integrating computational training materials and research tools from Methods Hub into Jupyter4NFDI to support reproducible and reusable workflows. | [Launch from libraries](https://methodshub.gesis.org/) |
+| Bioinformatics / Computational workflows | **CloWM** | Connecting reproducible computational workflows with Jupyter for interactive post-processing, visualisation and analysis of results stored in S3 buckets. | [Launch with CloWM](https://cmg.pages.ub.uni-bielefeld.de/clowm/clowm-user-documentation/11B_Jupyter) |
+| Digital humanities / Text mining | **AVOBMAT** | Multilingual text mining and analysis of bibliographic metadata and textual collections, with support for 24 languages. | [Incubator](https://github.com/NFDI-Jupyter/services/discussions/49) |
 
-* **[services](https://github.com/NFDI-Jupyter/services)**
-  Documentation and information about Jupyter services within NFDI. The repository also hosts Jupyter4NFDI discussions, support and resource integration processes.
 
-* **[ghactions](https://github.com/NFDI-Jupyter/ghactions)**
-  GitHub Actions for integrating repositories with Jupyter4NFDI, including automated execution and testing of notebooks.
+These incubator projects provide starting points for developing representative Jupyter4NFDI-ready demonstrations across research domains.
+
 
 ## Resources
 
